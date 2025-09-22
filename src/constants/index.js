@@ -207,7 +207,7 @@ const testimonials = [
         mentions: "@kunal",
         linkedin_id: "https://www.linkedin.com/in/kunalkushwaha1806/",
         review:
-            "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
+            "I can’t say enough good things about Divyam. Despite being a college student, he has an impressive grasp of technical concepts and problem-solving. He quickly understands requirements and comes up with creative, practical solutions. His ability to adapt and learn fast really stands out.",
         imgPath: "/images/client1.png",
     },
     {
@@ -215,7 +215,7 @@ const testimonials = [
         mentions: "@aditya",
         linkedin_id: "https://www.linkedin.com/in/aditya-raj-pandey-7663192b7/",
         review:
-            "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
+            "Working with Divyam was a fantastic experience. His technical depth in web development and AI/ML is remarkable for a student. Beyond that, his communication skills, professionalism, and ability to collaborate effectively make him someone I’d highly recommend for team projects and internships.",
         imgPath: "/images/client3.png",
     },
     {
@@ -223,7 +223,7 @@ const testimonials = [
         linkedin_id: "https://www.linkedin.com/in/alekh-sachan/",
         mentions: "@alekh",
         review:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+            "Collaborating with Divyam was an absolute pleasure. His enthusiasm for learning and applying new technologies is infectious. He balances strong technical expertise with excellent teamwork and a positive attitude. If you’re looking for someone dependable and innovative, Divyam is the right fit.",
         imgPath: "/images/client2.png",
     },
     {
@@ -231,15 +231,15 @@ const testimonials = [
         mentions: "@parth",
         linkedin_id: "https://www.linkedin.com/in/parth-shukla-0b5a57287/",
         review:
-            "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
+            "Divyam brings a fresh perspective to every project. His logical thinking and hands-on skills in development are impressive, and he’s equally strong in soft skills like communication and time management. A true team player who’s always willing to support others.",
         imgPath: "/images/client5.png",
     },
     {
-        name: "Mohd. Arsalan Rayeen",
-        mentions: "@arsalan",
-        linkedin_id: "https://www.linkedin.com/in/mohammad-arsalan-rayeen-8416a4320/",
+        name: "Sirjan Nishad",
+        mentions: "@sirjan",
+        linkedin_id: "https://www.linkedin.com/in/sirjan-nishad-2aa883288/",
         review:
-            "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
+            "Divyam’s technical expertise is way beyond what you’d expect from a college student. He has a sharp understanding of problem-solving, automation, and AI/ML concepts. His professionalism, curiosity, and ability to think critically make him a strong asset in any project setting.",
         imgPath: "/images/client4.png",
     },
     {
@@ -247,10 +247,11 @@ const testimonials = [
         mentions: "@nikhil",
         linkedin_id: "https://www.linkedin.com/in/nikhil-kushwaha9179/",
         review:
-            "Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
+            "Working with Divyam has been a great experience. He has a rare mix of technical skills and people skills—whether it’s coding a complex feature, debugging efficiently, or explaining concepts to peers with clarity. His dedication and collaborative mindset make him stand out.",
         imgPath: "/images/client6.png",
     },
 ];
+
 
 const socialImgs = [
     {
