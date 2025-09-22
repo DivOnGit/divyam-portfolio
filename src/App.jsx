@@ -22,7 +22,7 @@ const App = () => {
             <TechStack />
             <Testimonials />
             <Contact />
-            <SpeedInsights />
+            {/*<SpeedInsights />*/}
         </>
     )
 }
